@@ -1,7 +1,6 @@
-### Hi there 👋
-
 <!--
 **untilyou58/untilyou58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ![](AnimatedScientificGoldfish-size_restricted.gif)
 
 Here are some ideas to get you started:
