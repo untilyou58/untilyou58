@@ -1,9 +1,4 @@
-<!--
-**untilyou58/untilyou58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![](AnimatedScientificGoldfish-size_restricted.gif)
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PHP, Go, Python, React Native, Flutter
 - 🌱 I’m currently learning Machine learning, AWS certificate
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email to me sangxoay58@gmail.com
 - 😄 Pronouns: SanKu
 - ⚡ Fun fact: ...
--->
