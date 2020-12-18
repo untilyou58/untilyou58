@@ -1,4 +1,4 @@
-![](AnimatedScientificGoldfish-size_restricted.gif)
+![](dfb328b07a6755ec8320af4881da4e6d.gif)
 
 - 🔭 I’m currently working on PHP, Go, Python, React Native, Flutter
 - 🌱 I’m currently learning Machine learning, AWS certificate
