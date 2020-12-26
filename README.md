@@ -1,7 +1,6 @@
-<div align="center">
 ![](dfb328b07a6755ec8320af4881da4e6d.gif)
-</div>
 
+<div align="center">
 - 🔭 I’m currently working on PHP, Go, Python, React Native, Flutter
 - 🌱 I’m currently learning Machine learning, AWS certificate
 - 👯 I’m looking to collaborate on everyone that want to learn everything in the university.
@@ -10,3 +9,4 @@
 - 📫 Email to me sangxoay58@gmail.com
 - 😄 Pronouns: SanKu
 - ⚡ Fun fact: ...
+</div>
