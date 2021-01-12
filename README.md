@@ -10,4 +10,4 @@
 <div align="center"> 😄 Pronouns: SanKu </div>
 </div>
 
-![Metrics](https://github.com/untilyou58/untilyou58/blob/master/github-metrics.svg)
+![Metrics](https://github.com/untilyou58/untilyou58/blob/main/github-metrics.svg)
