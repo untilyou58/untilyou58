@@ -9,3 +9,5 @@
 <div align="center"> 📫 Email to me sangxoay58@gmail.com </div>
 <div align="center"> 😄 Pronouns: SanKu </div>
 </div>
+
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
