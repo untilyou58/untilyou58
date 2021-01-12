@@ -12,4 +12,4 @@
 
 ![Metrics](https://github.com/untilyou58/untilyou58/blob/master/github-metrics.svg)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=untilyou58)](https://github.com/untilyou58/github-readme-stats)
